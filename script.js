@@ -10,6 +10,6 @@ function convert(){
   else{
      result.style.color="white";
      result.style.fontSize="32px";
-     result.innerHTML = ans.toFixed(2) + "Inches";
+     result.innerHTML = ans.toFixed(2) + " Inches";
   }
 }
